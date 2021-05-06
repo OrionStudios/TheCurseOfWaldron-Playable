@@ -1,4 +1,4 @@
-# TheCurseOfWaldron-Playable
+# The Curse Of Waldron - Playable
 
 #### Windows users can download a .zip file of this repo and run the **TheCurseOfWaldron.exe** to play!
 See our README.txt for instructions, cheat codes, and more. 
