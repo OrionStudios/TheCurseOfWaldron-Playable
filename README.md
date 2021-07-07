@@ -1,3 +1,5 @@
+![COWplay](https://user-images.githubusercontent.com/25125692/124682385-9cae5c80-de98-11eb-8826-d817fc14aefa.PNG)
+
 # The Curse Of Waldron - Playable
 
 #### Windows users can download a .zip file of this repo and run the **TheCurseOfWaldron.exe** to play!
